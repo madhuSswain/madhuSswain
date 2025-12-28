@@ -9,17 +9,24 @@ Hi there 👋 I'm Madhusmita ( Frontend Developer )
 🛠 Tech Stack
 
 Frontend: React, JavaScript (ES6+), HTML, CSS
+
 State Management: Redux, Redux Toolkit
+
 Backend (Learning): Node.js, Express
+
 Tools: Git, GitHub, VS Code
+
 Cloud & DevOps (Learning): AWS, Docker
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📌 What I'm Working On
 
 Building real-world React projects
+
 Strengthening core JavaScript & React concepts
+
 Learning Redux for scalable state management
+
 Exploring backend development & AWS
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
